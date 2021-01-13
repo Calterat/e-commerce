@@ -39,11 +39,12 @@ JavaScript
 
 ## Usage
 
-> This is the start of back-end software for e-commerce. Build from here and grow!
+>This is the start of back-end software for e-commerce. Build from here and grow!
 
 
-        * ![Screenshot](./images/Screenshot.png)
-        * [Here is a HowTo Video Link!](https://drive.google.com/file/d/1B6b0AaeoRkBymT0X3ZO3TA_IWKOn4M79/view)
+![Screenshot](./images/Screenshot.png)
+
+[Here is a HowTo Video Link!](https://drive.google.com/file/d/1B6b0AaeoRkBymT0X3ZO3TA_IWKOn4M79/view)
         
 
 
@@ -78,5 +79,5 @@ If you have additional questions, you may reach me at my E-mail Address: Caltera
 
 ## Comments
 
-> This README is created from another one of my apps! Check it out: 
+> This README is created from another one of my apps! Check it out [here](https://github.com/Calterat/readme-generator)
 
