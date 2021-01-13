@@ -13,14 +13,17 @@ This is the back-end portion of an e-commerce page that pulls data from a MySQL 
 
 ## Table of Contents
 
-* [Languages](#languages)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [License](#license)
-* [Questions](#questions)
-* [Comments](#comments)
+- [E-Commerce Back End](#e-commerce-back-end)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Language(s)](#languages)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
+  - [Comments](#comments)
 
 
 ## Language(s)
@@ -39,7 +42,7 @@ JavaScript
 > This is the start of back-end software for e-commerce. Build from here and grow!
 
 
-        * ![Screenshot](somehwere/here)
+        * ![Screenshot](./images/Screenshot.png)
         * [Here is a HowTo Video Link!](https://drive.google.com/file/d/1B6b0AaeoRkBymT0X3ZO3TA_IWKOn4M79/view)
         
 
